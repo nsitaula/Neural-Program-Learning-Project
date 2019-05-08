@@ -1,3 +1,4 @@
+This program is attempt to adapt NPI (Neural Program Interpreter https://arxiv.org/pdf/1511.06279.pdf) implementation. The codes for the projects were adapted and made needed changes from the https://github.com/siddk/npi
 Package required:
 * Tensorflow
 * Tflearn
